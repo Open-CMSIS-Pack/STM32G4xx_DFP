@@ -14,13 +14,8 @@
   </licenseSets>
 
   <releases>
-    <release version="2.1.1-dev">
+    <release version="2.2.1-dev">
       Active development ...
-      - Added devices:
-        STM32G411xxxx, STM32G414xxxx, STM32G431CBTxZ, STM32G431RBTxZ, STM32G473RETxZ, STM32G473QETxZ, STM32G491RETxZ and STM32G491CETxZ. 
-      - Removed devices:
-        STM32G473VEIx, STM32G473VCIx, STM32G473VBIx, STM32G474VEIx, STM32G474VCIx, STM32G474VBIx, STM32G483VEIx, STM32G484VEIx
-      - Updated SVD files to version 3.1.
     </release>
     <release version="1.6.0" date="2024-05-03">
       Updated STM32Cube FW to STM32Cube_FW_G4_V1.5.2 (HAL V1.2.3).
